@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitFramework", "NunitFramework\NunitFramework.csproj", "{DCA327A9-CBAA-4CC1-A0F4-EEF8F3E9ADE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCA327A9-CBAA-4CC1-A0F4-EEF8F3E9ADE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCA327A9-CBAA-4CC1-A0F4-EEF8F3E9ADE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCA327A9-CBAA-4CC1-A0F4-EEF8F3E9ADE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCA327A9-CBAA-4CC1-A0F4-EEF8F3E9ADE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11054B7D-104C-46F3-8C52-673481FB3E6C}
+	EndGlobalSection
+EndGlobal
